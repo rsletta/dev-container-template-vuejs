@@ -2,6 +2,10 @@
 
 Use this template repository to bootstrap new VueJS project, where you can isolate the development environment in a dev container.
 
+
+## Added Container Features
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
+* [GitHub CLI](https://cli.github.com)
 ## Node.JS Global Packages
 * [Vue CLI](https://www.npmjs.com/package/@vue/cli)
 
