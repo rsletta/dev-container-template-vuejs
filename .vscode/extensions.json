@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"MS-vsliveshare.vsliveshare-pack",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense"
+	]
+}
